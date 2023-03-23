@@ -1,0 +1,29 @@
+*{
+  background-color: lightgrey;
+  font-family: 'Times New Roman', Times, serif;
+}
+.wrap{
+  background-color: crimson;
+  width: 500px;
+  height: 170px;
+}
+.btn{
+  background-color: forestgreen;
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin-top: 10px;
+  margin-left: 10px;
+  text-align: center;
+  font-size: 100px;
+  cursor: pointer;
+}
+.display{
+  background: none;
+  float: left;
+  width: 160px;
+  margin-top: 10px;
+  margin-left: 10px;
+  text-align: center;
+  font-size: 100px;
+}
